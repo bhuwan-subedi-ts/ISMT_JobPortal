@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\views\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\views\\organization\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\organization\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\job\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\jobportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\jobportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\models\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\models\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\views\\organization\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\organization\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|c:\\users\\bhuwa\\desktop\\net_ismt\\jobportal\\jobportal\\views\\organization\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9E2D78-50D9-4CCE-9E8B-8C4BC05C40A1}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\organization\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Job\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Job\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:12:40.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JobPortal\\Controllers\\JobController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAIwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:43:45.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Create.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Job\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Create.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Job\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T01:49:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobPortalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\JobPortalDbContext.cs",
+              "RelativeDocumentMoniker": "JobPortal\\JobPortalDbContext.cs",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\JobPortalDbContext.cs",
+              "RelativeToolTip": "JobPortal\\JobPortalDbContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA6wDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T02:15:27.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Organization\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Organization\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Organization\\Edit.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Organization\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T01:32:01.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Organization\\Details.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Organization\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Organization\\Details.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Organization\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T02:13:47.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Organization\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Organization\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Organization\\Index.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Organization\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:57:01.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Controllers\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Controllers\\OrganizationController.cs",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Controllers\\OrganizationController.cs",
+              "RelativeToolTip": "JobPortal\\Controllers\\OrganizationController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T01:58:07.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Models\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Models\\JobViewModel.cs",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Models\\JobViewModel.cs",
+              "RelativeToolTip": "JobPortal\\Models\\JobViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:37:33.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Job\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Edit.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Job\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:20:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Details.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Job\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bhuwa\\Desktop\\NET_ISMT\\JobPortal\\JobPortal\\Views\\Job\\Details.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Job\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:16:55.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
